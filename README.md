@@ -6,6 +6,11 @@
 
 Essa matéria teve como objetivo realizar a instalação, configuração e acesso remoto de um servidor. Ainda foi realizado tratativa de configuração para proteção e segmentação entre o sistema operacional e o banco de dados. 
 
+- Requisistos:
+
+1. Instalação do [VMWare Workstation Player](https://www.vmware.com/br/products/workstation-player/workstation-player-evaluation.html)
+2. Download do [Rocky linux 10](https://rockylinux.org/download) ou superior.
+
 ## Estrutura do Trabalho
 O projeto foi desenvolvido em três etapas complementares:
 
@@ -33,3 +38,4 @@ O projeto foi desenvolvido em três etapas complementares:
 * **Linguagem:** 
 
 ## Códigos Utilizados como exemplos em aula 
+
