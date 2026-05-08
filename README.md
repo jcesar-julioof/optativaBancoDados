@@ -1,7 +1,5 @@
 # Optativa: Tópicos Especiais em Banco de Dados
 
-> Breve resumo/subtítulo sobre o projeto em uma frase.
-
 ## Sobre o Projeto
 
 Essa matéria teve como objetivo realizar a instalação, configuração e acesso remoto de um servidor. Ainda foi realizado tratativa de configuração para proteção e segmentação entre o sistema operacional e o banco de dados. 
